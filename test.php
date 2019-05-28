@@ -1,3 +1,3 @@
 <?php 
-echo "magento CM"
+echo "magento CM";
 ?>
